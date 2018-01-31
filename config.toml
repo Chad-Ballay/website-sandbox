@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Chad's Sandbox"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/Chad-Ballay"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/Chad_Ballay"
+
+[params]
+    description = "Ramblings of a misplaced man."
+
+[params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
