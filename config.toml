@@ -1,4 +1,4 @@
-baseURL = "https://chad.ballay.gitlab.io/personal-blog/"
+baseURL = "https://chadballay.com/"
 languageCode = "en-us"
 title = "Chad's Sandbox"
 theme = "hugo-lithium-theme"
