@@ -1,5 +1,5 @@
 ---
-title: "Comptia Linux+ Test 1"
+title: "Comptia Linux Test 1"
 date: 2018-02-13T22:17:21-06:00
 ---
 Well tomorrow I am going to spend $200 to try and prove something to myself...  That makes me a damn fool or an honest idiot.  
