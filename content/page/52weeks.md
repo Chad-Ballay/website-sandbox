@@ -12,9 +12,15 @@ I have two favorite holidays each year.  Fourth of July takes number one due to 
 While browsing Reddit I came across this [video](https://www.youtube.com/watch?v=Iooz1TrCmbs).  The premise is that each week you setup some sort of stretch goal that could be accomplished wholly within that week.  Meaning to get your passport?  Get the paperwork filed that week.  Scared of donating blood?  Find and donate at a blood bank that week.  Now I did have to modify the premise.  I've got a wife that is 9 months postpartum, which means I also have a 9 month old baby, and a son who hates kindergarden, and another son who is having to fine tune his ADHD medicine.  Plus an ex-wife that can sometimes impact my day to day life as well as a job that keeps making the news about layoffs in our organization.  Needless to say, I'm not going to let this impact my homelife.
 
 ## The resolutions
-Violin Practice Week
-10K steps
+1. [Violin Practice Week](/2018/02/13/152---violin-practice-every-day/)
+2. [70K Steps](/2018/02/13/252---70k-steps/)
+
 Namste crossstich
+
 Lawyer meeting
+
 No Ambien
+
 Baking Bread
+
+No Facebook
