@@ -9,3 +9,7 @@ I work best with some sort of defined winning state as my goal.  Train to run a 
 But before I run I've got to crawl.  The first step is to get my Comptia Linux+ certification.  It consists of two parts of basic Linux understanding.  At no point is anyone going to see that cert on my resume and decide that it's the tipping point in the hiring decision.  Would have been great to do as a wet behind the ears systems admin about 10 years ago when I was doing that kind of work.  
 
 I whole heartedly recommend [Linux Academy](https://linuxacademy.com/).  Their site is amazing.  Spins up VM's for you to use to practice on.  Guided videos broken down into manageable chunks.  Paths of study for various technologies.  Hell, you can even set it up to nag you to study if you get behind the schedule that you generate.  
+
+---
+Update...
+I missed a passing score by three questions.  Package management arguments sunk me.  I've signed up to take it again next week since the inertia is already rolling.  Plus my pride won't let this stand. 

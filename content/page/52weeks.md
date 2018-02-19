@@ -14,13 +14,15 @@ While browsing Reddit I came across this [video](https://www.youtube.com/watch?v
 ## The resolutions
 1. [Violin Practice Week](/2018/02/13/152---violin-practice-every-day/)
 2. [70K Steps](/2018/02/13/252---70k-steps/)
-
-Namste crossstich
-
-Lawyer meeting
+3. Namste Crossstich
+4. [Lawyer Meeting](/2018/02/19/452---custody-meeting-with-lawyer/)
 
 No Ambien
 
 Baking Bread
 
 No Facebook
+
+Yoga
+
+No Eating Out
