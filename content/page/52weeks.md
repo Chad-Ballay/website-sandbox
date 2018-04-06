@@ -18,7 +18,7 @@ While browsing Reddit I came across this [video](https://www.youtube.com/watch?v
 4. [Lawyer Meeting](/2018/02/19/452---custody-meeting-with-lawyer/)
 5. [No Ambien](/2018/02/24/552---no-ambien/)
 6. [Baking Bread](/2018/03/21/652---baking_bread/)
-7. No Facebook
+7. [No Facebook](/2018/04/06/752---no-facebook/)
 8. Yoga
 9. No Eating Out
 10. [Comptia Linux+ Exam 1](/2018/02/13/1052---lx0-103-test/)
@@ -26,3 +26,4 @@ While browsing Reddit I came across this [video](https://www.youtube.com/watch?v
 12. Real ID
 13. Passport
 14. Foreign Country
+15. [Weight Loss](/2018/04/06/1552---weight-loss/)
