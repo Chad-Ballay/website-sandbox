@@ -14,10 +14,6 @@ disqusShortname = ""
     url = "/EDLPi/"
     weight = 0
 [[menu.main]]
-    name = "52Weeks"
-    url = "/52weeks/"
-    weight = 1
-[[menu.main]]
     name = "About"
     url = "/about/"
     weight = 2
