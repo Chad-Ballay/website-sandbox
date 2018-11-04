@@ -1,5 +1,5 @@
 ---
-title: "Remote DevOps"
+title: "#ProjectSkyCastle"
 date: 2018-11-03T23:43:52-05:00
 ---
 # Infrastructure As Code Should Also Apply To Your IDE
@@ -12,7 +12,7 @@ In that spirit I'm taking on a new effort of migrating away from my laptop and i
 I'll link back to here as I tackle the specific items.
 
 * VPS
-* Cloud
+* Cloud Environment
 * Infrastructure As Code
 * Source Code Repository
 * Configuration Management
