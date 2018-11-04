@@ -1,5 +1,5 @@
 ---
-title: "#ProjectSkyCastle"
+title: "ProjectSkyCastle"
 date: 2018-11-03T23:43:52-05:00
 ---
 # Infrastructure As Code Should Also Apply To Your IDE
