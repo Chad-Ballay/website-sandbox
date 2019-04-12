@@ -1,6 +1,6 @@
 pipeline:
    build:
-     image: Chad-Ballay/website-sandbox
+     image: chad-ballay/website-sandbox
      validate: true
      url: https://chadballay.com
 
