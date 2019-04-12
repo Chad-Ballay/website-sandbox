@@ -1,10 +1,6 @@
-kind: pipeline
-name: default
-
-steps:
-- name: build
-  image: Chad-Ballay/website-sandbox
-  settings:
-    hugo_version: 0.55
-    validate: true
+pipeline:
+   build:
+     image: cbrm/drone-hugo:latest
+     validate: true
+     url: https://chadballay.com
 
