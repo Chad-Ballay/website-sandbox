@@ -1,6 +1,10 @@
-pipeline:
-   build:
-     image: chad-ballay/website-sandbox
-     validate: true
-     url: https://chadballay.com
+kind: pipeline
+name: default
+
+steps:
+- name: build
+  image: plugins/hugo
+  settings:
+    hugo_version: 0.55
+    url: https://chadballay.com
 
