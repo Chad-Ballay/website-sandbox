@@ -1,6 +1,6 @@
 pipeline:
    build:
-     image: cbrm/drone-hugo:latest
+     image: Chad-Ballay/website-sandbox
      validate: true
      url: https://chadballay.com
 
