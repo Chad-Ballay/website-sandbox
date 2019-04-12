@@ -1,4 +1,4 @@
-hugo new posts/my-first-post.md
+hugo new post/github.md
 
 hugo server -D
 
