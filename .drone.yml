@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: build
-  image: plugins/hugo
+  image: Chad-Ballay/website-sandbox
   settings:
     hugo_version: 0.55
     validate: true
