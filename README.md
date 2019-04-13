@@ -6,6 +6,7 @@ Personal website.  Slowly adding more automation to it but this is more of a san
 1. Set up drone.io build
 2. Shift to pushing to netlify directly
 3. GCP CI/CD setup?
+4. Require PR review?
 
 
 # Shortcuts
