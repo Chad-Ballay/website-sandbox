@@ -18,7 +18,7 @@ disqusShortname = ""
     url = "/about/"
     weight = 1
 [[menu.main]]
-    name = "LinkedIn
+    name = "LinkedIn"
     url = "https://www.linkedin.com/in/chad-ballay/"
     weight = 2
 [[menu.main]]
