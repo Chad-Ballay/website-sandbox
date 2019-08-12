@@ -29,6 +29,10 @@ disqusShortname = ""
     name = "Github"
     url = "https://github.com/Chad-Ballay"
     weight = 4
+[[menu.main]]
+    name = "Impossible List"
+    url = "/impossible-list/"
+    weight = 5
 
 [params]
     description = "Ramblings of a misplaced man."
