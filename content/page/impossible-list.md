@@ -7,13 +7,21 @@ date: 2019-08-11T20:37:04-05:00
 
 1. Go to Iceland and see the aurora or even the geography depending on the time of year.
 1. National Parks are America's best idea and I want to see them all.
-    * Grand Canyon
-    * Denali
-    * Arches
-    * Glacier
-    * Yosemite
-    * Big Bend
-1. Visit Oktoberfest in Munich.
+    * ~~Bryce Canyon~~   
+    * ~~Zion National Park~~ 
+    * ~~Hot Springs~~ 
+    * ~~Yellowstone~~ 
+    * ~~Everglades~~ 
+    * ~~Gateway Arch~~ 
+    * ~~Grand Teton~~ 
+    * ~~Great Smokey Mountains~~ 
+    * Grand Canyon 
+    * Denali 
+    * Arches 
+    * Glacier 
+    * Yosemite 
+    * Big Bend 
+1. Visit Oktoberfest in Munich
 
 ## Exercise
 
