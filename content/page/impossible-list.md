@@ -18,7 +18,7 @@ date: 2019-08-11T20:37:04-05:00
 ## Exercise
 
 1. Running - A long time a go I set out to complete a marathon.  I made it up to a half marathon and quit.  That stings to this very day.
-    * 5k
+    * ~~5k~~ (9/14/2019)
     * 10k
     * Half marathon
     * Full marathon
@@ -50,7 +50,7 @@ date: 2019-08-11T20:37:04-05:00
 ## Financial
 
 1. Debt Free
-    * Chase Credit Card
+    * ~~Chase Credit Card~~ (9/13/19)
     * Arvest Credit Card
     * Toyota Car Loan
     * Subaru Car Loan  
