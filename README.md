@@ -14,7 +14,11 @@ Personal website.  Slowly adding more automation to it but this is more of a san
 
 
 # Shortcuts
-`hugo new post/github.md`
+`git checkout -b new_branch`
+
+`git push origin  new_branch`
+
+`hugo new post/title.md`
 
 `hugo server -D`
 
