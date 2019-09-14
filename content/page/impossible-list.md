@@ -3,8 +3,6 @@ title: "Impossible List"
 date: 2019-08-11T20:37:04-05:00
 ---
 
-# Impossible List
-
 ## Travel
 
 1. Go to Iceland and see the aurora or even the geography depending on the time of year.
