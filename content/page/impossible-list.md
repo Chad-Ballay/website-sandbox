@@ -63,7 +63,7 @@ date: 2019-08-11T20:37:04-05:00
 
 ## Devops (Setting it seperate since this one is a bit complicated)
 
-1. ~~Setup my own source code repo server.~~ (![Spun up Gitlab](/images/gitlab.png))
+1. ~~Setup my own source code repo server.~~ ([Spun up Gitlab](/images/gitlab.png))
 1. Setup a single instance of a hello world API.
 1. Setup my own CI/CD pipeline that'll deploy that API from source.
 1. Setup my a loadbalanced and multiple instances of the API.
