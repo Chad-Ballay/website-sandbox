@@ -23,7 +23,10 @@ date: 2019-08-11T20:37:04-05:00
     * Glacier 
     * Yosemite 
     * Big Bend 
-1. Visit Oktoberfest in Munich
+1. Visit Oktoberfest in Munich.
+1. Lafayette's Tomb on July 4th.
+1. Colonial Williamsburg
+1. Headwaters of the Mississippi River
 
 ## Exercise
 
@@ -56,6 +59,18 @@ date: 2019-08-11T20:37:04-05:00
 1. Network+
 1. Security+
 1. CCNA
+1. Amazing Grace on Violin
+
+## Devops (Setting it seperate since this one is a bit complicated)
+
+1. ~~Setup my own source code repo server.~~ (![Spun up Gitlab](/images/gitlab.png))
+1. Setup a single instance of a hello world API.
+1. Setup my own CI/CD pipeline that'll deploy that API from source.
+1. Setup my a loadbalanced and multiple instances of the API.
+1. Setup a k8 cluster to host the api.
+1. Repeat the load balanced, multi cloud step.
+1. Use terraform/ansible to do that all over again.
+
 
 ## Financial
 
