@@ -53,7 +53,7 @@ date: 2019-08-11T20:37:04-05:00
 ## Learning
 
 1. Complete a second bachelor's
-1. Linux+
+1. ~~Linux+~~ ([9/27/2019](https://www.youracclaim.com/badges/a8736492-90d6-4b64-a396-35fa6b213906/public_url))
 1. Network+
 1. Security+
 1. CCNA
