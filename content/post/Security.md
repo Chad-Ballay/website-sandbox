@@ -1,5 +1,5 @@
 ---
-title: "Security+"
+title: "Comptia Security"
 date: 2019-12-01T09:46:04-06:00
 ---
 ![Roadmap](/images/Security_Cert_Map.png | width=50)
