@@ -30,7 +30,7 @@ date: 2019-08-11T20:37:04-05:00
 
 1. Running - A long time a go I set out to complete a marathon.  I made it up to a half marathon and quit.  That stings to this very day.
     * ~~5k~~ (9/14/2019)
-    * 10k
+    * ~~10k~~ (10/5/2019)
     * Half marathon
     * Full marathon
 2. Tough Mudder - I did 4 and I want to get to 10.
@@ -54,21 +54,9 @@ date: 2019-08-11T20:37:04-05:00
 
 1. Complete a second bachelor's
 1. ~~Linux+~~ ([9/27/2019](https://www.youracclaim.com/badges/a8736492-90d6-4b64-a396-35fa6b213906/public_url))
-1. Network+
 1. Security+
-1. CCNA
-1. Amazing Grace on Violin
-
-## Devops (Setting it seperate since this one is a bit complicated)
-
-1. ~~Setup my own source code repo server.~~ (Spun up Gitlab)
-1. Setup a single instance of a hello world API.
-1. Setup my own CI/CD pipeline that'll deploy that API from source.
-1. Setup my a loadbalanced and multiple instances of the API.
-1. Setup a k8 cluster to host the api.
-1. Repeat the load balanced, multi cloud step.
-1. Use terraform/ansible to do that all over again.
-
+2. GSEC
+3. Azure Administrator
 
 ## Financial
 
