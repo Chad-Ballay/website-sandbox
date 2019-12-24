@@ -2,7 +2,8 @@
 title: "Comptia Security"
 date: 2019-12-01T09:46:04-06:00
 ---
-![Roadmap](/images/Security_Cert_Map.png)
+<a href="/images/Security_Cert_Map.png"><img src="/images/Security_Cert_Map.png" alt="Cert!"
+	title="Cert" width="800" /> </a>
 
 Starting the second part of my pivot triangle.  Degree, certs, and proof of work.  The certs part is going to be some of the roughest parts of the path.  College is cheap and success is pretty broadly defined.  (Make straight C's and still have a degree...)  
 
