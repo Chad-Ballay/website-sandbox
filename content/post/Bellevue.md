@@ -3,9 +3,8 @@ title: "Bellevue"
 date: 2019-11-18T20:48:51-06:00
 ---
 
-![Pivot!](/images/pivot.JPG)
 <img src="/images/pivot.JPG" alt="Pivot!"
-	title="Pivot" width="200" />
+	title="Pivot" width="400" />
 
 My employer, Walmart, has started offering a tuition benefit to all employees.  It's mostly geared for associates trying to get their first degree but it is open to everyone.  It works out to a dollar a day, they cover all other tuition and books.  That was too enticing to pass up and so I'm starting on my second bachelors.  Cybersecurity at Bellevue University.
 
