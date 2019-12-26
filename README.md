@@ -16,7 +16,7 @@ Personal website.  Slowly adding more automation to it but this is more of a san
 # Shortcuts
 `git checkout -b new_branch`
 
-`git push origin  new_branch`
+`git push --set-upstream origin new_branch`
 
 `hugo new post/title.md`
 
