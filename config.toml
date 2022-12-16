@@ -1,44 +1,36 @@
 baseURL = "https://chadballay.com/"
-languageCode = "en-us"
-title = "Chad's Sandbox"
-theme = "hugo-lithium-theme"
-googleAnalytics = ""
 disqusShortname = ""
-
-[permalinks]
-    post = "/:year/:month/:day/:title/"
-    page = "/:title/"
-
+googleAnalytics = ""
+languageCode = "en-us"
+theme = "hugo-lithium-theme"
+title = "Chad's Sandbox"
 [[menu.main]]
-    name = "EDLPi"
-    url = "/EDLPi/"
-    weight = 0
+name = "Impossible List"
+url = "/impossible-list/"
+weight = 5
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
+name = "Github"
+url = "https://github.com/Chad-Ballay"
+weight = 4
 [[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/chad-ballay/"
-    weight = 2
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/chad-ballay/"
+weight = 3
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/Chad_Ballay"
-    weight = 3
+name = "About"
+url = "/about/"
+weight = 2
 [[menu.main]]
-    name = "Github"
-    url = "https://github.com/Chad-Ballay"
-    weight = 4
-[[menu.main]]
-    name = "Impossible List"
-    url = "/impossible-list/"
-    weight = 5
-
+name = "EDLPi"
+url = "/EDLPi/"
+weight = 1
 [params]
-    description = "Ramblings of a misplaced man."
-
+description = "Ramblings of a misplaced man."
 [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+alt = "Logo"
+height = 50
+url = "logo.png"
+width = 50
+[permalinks]
+page = "/:title/"
+post = "/:year/:month/:day/:title/"

@@ -1,9 +1,8 @@
-+++
-date = 2022-11-06T05:00:00Z
-draft = true
-title = "Derailed"
+---
+date: 2022-11-06T05:00:00Z
+title: "Derailed"
+---
 
-+++
 ![](/uploads/treme_ladonna.png)
 
 > _I married a goddamn musician. Ain't no way to make that shit right. - Ladonna, Treme S1E1 "Do You Know What It Means"_
