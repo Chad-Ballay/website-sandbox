@@ -4,10 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
 pages:
 - content/Grateful Deeds/intro.md
 - content/post/derailed.md
