@@ -1,6 +1,5 @@
 +++
 date = 2022-12-26T06:42:00Z
-draft = true
 title = "Repeating Pattern"
 
 +++
