@@ -9,5 +9,5 @@ fields:
   name: date
   label: Date
 pages:
-- content/Grateful Deeds/intro.md
 - content/post/derailed.md
+- content/post/repeating-pattern.md
