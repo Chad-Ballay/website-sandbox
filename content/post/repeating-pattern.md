@@ -9,3 +9,7 @@ title = "Repeating Pattern"
     lsof -i -P -n
     ...
     ...
+
+The number of times that I have to run these same commands.  Find the string of text that is in the log file and where did it come from.  Or go spit out the ASCII strings from compiled code.  Or what process has what port on a box.
+
+Tonight is just yet another night of seeing the same pattern get played out in new instances.  Troubleshooting by following the recipe that hasn't changed in years.
