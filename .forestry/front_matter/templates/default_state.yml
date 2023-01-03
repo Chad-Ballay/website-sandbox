@@ -9,5 +9,6 @@ fields:
   name: date
   label: Date
 pages:
+- content/post/big-feelings-with-big-songs.md
 - content/post/derailed.md
 - content/post/repeating-pattern.md
