@@ -15,6 +15,7 @@ date: 2019-08-11T20:37:04.000-05:00
    * ~~Gateway Arch~~
    * ~~Grand Teton~~
    * ~~Great Smokey Mountains~~
+   * ~~White Sands~~
    * Grand Canyon
    * Denali
    * Arches
@@ -54,7 +55,7 @@ date: 2019-08-11T20:37:04.000-05:00
 ## Learning
 
 1. ~~Complete a second bachelor's~~
-2. ~~Linux+~~ 
+2. ~~Linux+~~
 3. ~~Security~~+
 4. ~~GSEC~~
 5. Azure Administrator
