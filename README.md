@@ -14,6 +14,12 @@ Personal website.  Slowly adding more automation to it but this is more of a san
 
 
 # Shortcuts
+`
+mkdir themes
+cd themes
+git clone https://github.com/jrutheiser/hugo-lithium-theme
+`
+
 `git checkout -b new_branch`
 
 `git push --set-upstream origin new_branch`
