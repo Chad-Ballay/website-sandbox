@@ -1,3 +1,7 @@
+---
+_template: default_state
+---
+
 +++
 date = 2023-01-03T07:00:00Z
 title = "Big Feelings With Big Songs"

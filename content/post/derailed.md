@@ -1,7 +1,9 @@
 ---
-date: 2022-11-06T05:00:00Z
-title: "Derailed"
+date: 2022-11-06T05:00:00.000Z
+title: Derailed
+_template: default_state
 ---
+
 
 ![](/uploads/treme_ladonna.png)
 

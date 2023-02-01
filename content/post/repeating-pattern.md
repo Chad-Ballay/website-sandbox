@@ -1,3 +1,7 @@
+---
+_template: default_state
+---
+
 +++
 date = 2022-12-26T06:42:00Z
 title = "Repeating Pattern"

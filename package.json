@@ -1,0 +1,24 @@
+{
+  "name": "website-sandbox",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a248f80b-89d3-48b7-854d-f954740a1148/deploy-status)](https://app.netlify.com/sites/quizzical-colden-1f3560/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chad-Ballay/website-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chad-Ballay/website-sandbox/issues"
+  },
+  "homepage": "https://github.com/Chad-Ballay/website-sandbox#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.7",
+    "tinacms": "^1.1.4"
+  }
+}
