@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a248f80b-89d3-48b7-854d-f954740a1148/deploy-status)](https://app.netlify.com/sites/quizzical-colden-1f3560/deploys)
-
 Personal website.  Slowly adding more automation to it but this is more of a sandbox than a porfolio
 
 # Current TODO
